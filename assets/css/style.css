@@ -84,7 +84,6 @@ body {
     color: #555555;
 }
 
-
 /*--------------------------------------------Special Paddings/Margins/Text*/
 
 h1,
@@ -242,7 +241,7 @@ footer .cv-pdf i {
 }
 
 footer .cv-pdf i:hover {
-    color: #e84610;
+    color: #000000;
     transition: all 0.35s ease-in-out;
     -moz-transition: all 0.35s ease-in-out;
     -webkit-transition: all 0.35s ease-in-out;
@@ -270,7 +269,7 @@ footer .cv-pdf i:hover {
 }
 
 .social-links li a i:hover {
-    background: #e84610;
+    background: #000000;
 }
 
 #footer-details {
@@ -442,3 +441,4 @@ div#map {
         height: 50px;
     }
 }
+
